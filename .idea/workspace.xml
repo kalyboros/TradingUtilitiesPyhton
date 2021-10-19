@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2715d2aa-1b25-4ca1-bf4c-5ff9a3826719" name="Default Changelist" comment="Added crypto-prediction machine learning script" />
+    <list default="true" id="2715d2aa-1b25-4ca1-bf4c-5ff9a3826719" name="Default Changelist" comment="Added macd trading strategy with visually represented charting shotcalls.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634646633039</updated>
-      <workItem from="1634646675857" duration="309000" />
+      <workItem from="1634646675857" duration="428000" />
     </task>
     <task id="LOCAL-00001" summary="Added crypto-prediction machine learning script">
       <created>1634646926131</created>
@@ -97,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634646926131</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added macd trading strategy with visually represented charting shotcalls.">
+      <created>1634647015182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634647015182</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added macd trading strategy with visually represented charting shotcalls.">
+      <created>1634647026003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634647026003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added crypto-prediction machine learning script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added crypto-prediction machine learning script" />
+    <MESSAGE value="Added macd trading strategy with visually represented charting shotcalls." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added macd trading strategy with visually represented charting shotcalls." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
